@@ -46,9 +46,9 @@ body {
 #profile img {
   /* width: 50%;
 height: 110px; */
-width:120px; 
-height:115px;
-  object-fit:fill;
+  width: 130px;
+  height: 115px;
+  object-fit: fill;
   border-radius: 50%;
 }
 #profile p {
@@ -80,11 +80,11 @@ height:115px;
   animation: slide-back 0.2s;
 }
 
-.light #switch button{
+.light #switch button {
   animation: slide-in 0.2s forwards;
 }
 
-#switch button:hover{
+#switch button:hover {
   outline: 8px solid var(--highlight-color);
 }
 
@@ -159,26 +159,26 @@ footer {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
 
-  .light{
+  .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
 
 /* animation */
 @keyframes slide-in {
-from {
-  left:0;
-}
-to {
-  left:50%;
-}
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
 }
 
 @keyframes slide-back {
   from {
-    left:50%;
+    left: 50%;
   }
   to {
-    left:0;
+    left: 0;
   }
-  }
+}
