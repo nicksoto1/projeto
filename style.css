@@ -44,8 +44,6 @@ body {
   padding: 24px;
 }
 #profile img {
-  /* width: 50%;
-height: 110px; */
   width: 130px;
   height: 115px;
   object-fit: fill;
