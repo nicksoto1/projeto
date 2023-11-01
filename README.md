@@ -25,9 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ----------------
 
  ## 👀 Surge
-  Você pode visualizar o site  através [desse link]() 
-	<br>
-	OBS: Indisponivel no momento
+  Você pode visualizar o site  através [desse link](https://nicksoto1.github.io/projeto/) 
 
 ----------------
 
